@@ -1,4 +1,4 @@
-# Amazon
+# Flutter E-Commerce Application
 
 A new Flutter project.
 
